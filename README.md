@@ -1,6 +1,6 @@
 Oi, eu sou Nicolas Javier Santos Cardenas 👋
 
-Estudante de Engenharia Elétrica na Universidade Federal de Uberlândia (UFU), com interesse em desenvolvimento de software, sistemas embarcados, automação, IoT e aplicações que conectam hardware e software.
+  Estudante Estudante de Engenharia Elétrica na Universidade Federal de Uberlândia (UFU), com interesse em desenvolvimento de software, sistemas embarcados, automação, IoT e aplicações que conectam hardware e software.
 
 Atualmente, também desenvolvo projetos envolvendo aplicações web/mobile, microcontroladores, sistemas supervisórios e controle.
 
@@ -34,9 +34,6 @@ Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,docker,git,github,vscode" />
 
-Embarcados e engenharia
-
-<img src="https://skillicons.dev/icons?i=arduino" />
 
 </div>
 
@@ -81,24 +78,7 @@ Experiência adquirida durante monitoria de Informática Industrial II, trabalha
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasCardenass&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasCardenass&theme=github_dark" />
-
 </div>
 
-🤝 Contato
-
-<div align="left">
-
-
-
-
-
-</div>
-
-<div align="center">
-
-💡 Engenharia, tecnologia e programação transformando ideias em soluções.
 
 </div>
